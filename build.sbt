@@ -1,4 +1,4 @@
-name := "hello-akka"
+name := "akka-exper"
 
 version := "1.0"
 
